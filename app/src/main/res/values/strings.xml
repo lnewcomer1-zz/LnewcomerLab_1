@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Lab 1</string>
 
-    <string name="welcome">Welcome back to Android 152-19</string>
-    <string name="hint">Type Something</string>
+    <string name="welcome">Welcome back to Android 152-195</string>
+    <string name="hint">Enter Name Here</string>
 
     <string name="action_settings">Settings</string>
 </resources>
