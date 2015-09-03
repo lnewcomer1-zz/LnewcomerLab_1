@@ -15,6 +15,7 @@
         android:layout_height="wrap_content"
         android:background="@android:color/black"
         android:textColor="@android:color/white"
-        android:hint="@string/hint"/>
+        android:hint="@string/hint"
+        android:textColorHint="@android:color/white"/>
 
 </LinearLayout>

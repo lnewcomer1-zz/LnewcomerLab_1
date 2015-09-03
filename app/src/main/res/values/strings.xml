@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LnewcomerLab_1</string>
+    <string name="app_name">Lab 1</string>
 
     <string name="welcome">Welcome back to Android 152-19</string>
     <string name="hint">Type Something</string>
