@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">LnewcomerLab_1</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="welcome">Welcome back to Android 152-19</string>
+    <string name="hint">Type Something</string>
+
     <string name="action_settings">Settings</string>
 </resources>
